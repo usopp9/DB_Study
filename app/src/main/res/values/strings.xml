@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DB_Study</string>
+
+    <string name="main_title01">SqLite</string>
+    <string name="main_title02">AdapterView</string>
+
+    <string name="btmTitle01">AdapterView(Array,Simple.Cursor)</string>
+    <string name="btmTitle02">Custom Cursor Adapter</string>
+</resources>

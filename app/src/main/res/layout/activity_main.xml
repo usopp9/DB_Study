@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/paddingSize"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_title01"
+        android:gravity="center"
+        android:background="@color/colorTitle"/>
+
+    <Button
+        android:id="@+id/mBtn01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basic SQL"
+        android:onClick="mOnClick"/>
+    <Button
+        android:id="@+id/mBtn02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SqLite CRUD"
+        android:onClick="mOnClick"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_title02"
+        android:gravity="center"
+        android:background="@color/colorTitle"/>
+
+    <Button
+        android:id="@+id/mBtn03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btmTitle01"
+        android:onClick="mOnClick"/>
+    <Button
+        android:id="@+id/mBtn04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btmTitle02"
+        android:textAllCaps="false"
+        android:onClick="mOnClick"/>
+</LinearLayout>
