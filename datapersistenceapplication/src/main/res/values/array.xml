@@ -4,11 +4,19 @@
         <item>FileIOActivity</item>
         <item>SharedPrefActivity</item>
         <item>SharedPrefFragmentActivity</item>
+        <item>SpannableActivity</item>
+        <item>WebActivity</item>
+        <item>AdapterView</item>
+        <item>AdapterView2</item>
     </string-array>
     <string-array name="titles">
         <item>파일 Read Write</item>
         <item>Activity에서 Preference 처리</item>
         <item>Fragment에서 Preference 처리</item>
+        <item>다양한 뷰(Spannable)</item>
+        <item>다양한 뷰(WebView)</item>
+        <item>다양한 뷰(AdapterView)</item>
+        <item>다양한 뷰(AdapterView2)</item>
     </string-array>
     <string-array name="array_voice">
         <item>카톡</item>
