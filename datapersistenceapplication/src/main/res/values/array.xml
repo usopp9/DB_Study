@@ -8,6 +8,8 @@
         <item>WebActivity</item>
         <item>AdapterView</item>
         <item>AdapterView2</item>
+        <item>Mission01</item>
+        <item>Mission02</item>
     </string-array>
     <string-array name="titles">
         <item>파일 Read Write</item>
@@ -17,6 +19,8 @@
         <item>다양한 뷰(WebView)</item>
         <item>다양한 뷰(AdapterView)</item>
         <item>다양한 뷰(AdapterView2)</item>
+        <item>도전과제01</item>
+        <item>도전과제02</item>
     </string-array>
     <string-array name="array_voice">
         <item>카톡</item>

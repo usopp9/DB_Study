@@ -27,7 +27,11 @@
         <activity android:name=".SpannableActivity" />
         <activity android:name=".WebActivity" />
         <activity android:name=".AdapterView" />
-        <activity android:name=".AdapterView2"></activity>
+        <activity android:name=".AdapterView2" />
+        <activity android:name=".Mission01" />
+        <activity android:name=".Mission01Result" />
+        <activity android:name=".Mission02" />
+        <activity android:name=".Mission02Result"></activity>
     </application>
 
 </manifest>
