@@ -10,6 +10,7 @@
         <item>AdapterView2</item>
         <item>Mission01</item>
         <item>Mission02</item>
+        <item>ActionBarActivity</item>
     </string-array>
     <string-array name="titles">
         <item>파일 Read Write</item>
@@ -21,6 +22,7 @@
         <item>다양한 뷰(AdapterView2)</item>
         <item>도전과제01</item>
         <item>도전과제02</item>
+        <item>액션바</item>
     </string-array>
     <string-array name="array_voice">
         <item>카톡</item>
